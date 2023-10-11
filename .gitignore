@@ -1,0 +1,29 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.dotnet
+/.nuget/packages
+/.nuget/packages
+/.vscode
+/3D Objects
+/AppData
+/Contacts
+/Downloads
+/Favorites
+/IntelGraphicsProfiles
+/Links
+/Music
+/OneDrive
+/Saved Games
+/Searches
+/source/repos/AzureTresureHuntMikeV
+/source/repos/BankAccountApp
+/source/repos/Crypto Marketplace/.vs
+/source/repos/Crypto Marketplace
+/source/repos/LostArtifactQuest/.vs
+/source/repos/LostArtifactQuest
+/source/repos/MichaelsPortfolio/.vs/MichaelsPortfolio
+/source/repos/MichaelsPortfolio/obj
+/source/repos/MichaelVPortfolio/.vs
+/source/repos/MichaelVPortfolio/bin
